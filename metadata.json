@@ -1,0 +1,5 @@
+{
+  "name": "Habit Tracker",
+  "description": "A simple and modern React application to track your daily habits. It stores your progress in the browser's local storage, allowing you to maintain your streaks and stay motivated.",
+  "requestFramePermissions": []
+}
